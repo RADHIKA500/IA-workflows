@@ -4,7 +4,7 @@
   "States": {
     "EchoState": {
       "Type": "Task",
-      "Resource": "docker://docker.io/radhika500/echo:v4",
+      "Resource": "docker://docker.io/radhika500/echo:v6",
       "End": true
     }
   }
