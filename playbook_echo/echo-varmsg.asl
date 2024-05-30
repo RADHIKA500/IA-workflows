@@ -4,7 +4,7 @@
   "States": {
     "Print": {
       "Type": "Task",
-      "Resource": "docker://docker.io/radhika500/echo:varmsg",
+      "Resource": "docker://docker.io/radhika500/echo:ruby",
       "End": true,
       "Credentials": {
         "api_bearer_token.$": "$.api_bearer_token"
